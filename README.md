@@ -1,8 +1,8 @@
-[![MasterHead](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm)](https://shreshtha-kochgaway-portfolio.netlify.app/)
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skochgaway112&label=Profile%20views&color=0e75b6&style=flat" alt="skochgaway112" /> </p>
 
